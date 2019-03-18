@@ -1,0 +1,1 @@
+﻿Get-ADUser -Filter {(LastLogonTimeStamp -lt [datetime]::Today.AddDays(-90)) -and (enabled -eq $true)} -Properties LastLogonTimeStamp | Select Name,lastLogonTimestamp |export-csv c:\a.csv -Notypeinformation
