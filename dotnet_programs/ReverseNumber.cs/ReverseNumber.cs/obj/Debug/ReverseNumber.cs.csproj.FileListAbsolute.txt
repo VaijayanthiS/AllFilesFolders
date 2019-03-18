@@ -1,7 +1,0 @@
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\bin\Debug\ReverseNumber.cs.exe.config
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\bin\Debug\ReverseNumber.cs.exe
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\bin\Debug\ReverseNumber.cs.pdb
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\obj\Debug\ReverseNumber.cs.csprojAssemblyReference.cache
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\obj\Debug\ReverseNumber.cs.csproj.CoreCompileInputs.cache
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\obj\Debug\ReverseNumber.cs.exe
-E:\dotnet_programs\ReverseNumber.cs\ReverseNumber.cs\obj\Debug\ReverseNumber.cs.pdb
