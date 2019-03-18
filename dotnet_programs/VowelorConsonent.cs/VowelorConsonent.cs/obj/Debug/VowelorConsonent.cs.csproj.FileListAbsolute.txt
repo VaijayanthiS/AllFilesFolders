@@ -1,0 +1,7 @@
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\bin\Debug\VowelorConsonent.cs.exe.config
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\bin\Debug\VowelorConsonent.cs.exe
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\bin\Debug\VowelorConsonent.cs.pdb
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\obj\Debug\VowelorConsonent.cs.csprojAssemblyReference.cache
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\obj\Debug\VowelorConsonent.cs.csproj.CoreCompileInputs.cache
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\obj\Debug\VowelorConsonent.cs.exe
+E:\dotnet_programs\VowelorConsonent.cs\VowelorConsonent.cs\obj\Debug\VowelorConsonent.cs.pdb
